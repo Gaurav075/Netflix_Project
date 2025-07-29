@@ -1,13 +1,18 @@
 
-# 📊 Netflix Data Analysis 2022 Using Python & MySQL
+# 📊 Netflix Data Analysis 2022 (Python + MySQL)
 
-Welcome to the **Netflix Data Analysis 2022** project repository! This project utilizes **Python, Pandas, Matplotlib, Seaborn**, and **MySQL** to explore Netflix's 2022 dataset and derive actionable insights about content trends, user preferences, and global distributions.
+Welcome to the **Netflix Data Analysis 2022** project! This project utilizes **Python, Pandas, Matplotlib, Seaborn**, and **MySQL** to explore Netflix’s 2022 dataset and uncover actionable insights about content trends, user preferences, and global distribution.
 
 ---
 
 ## 🚀 Project Overview
 
-The goal of this project is to uncover meaningful patterns and trends in Netflix's content library from 2022. By analyzing various attributes such as **genre, release year, country of origin**, and **ratings**, we aim to offer strategic recommendations for improving viewer engagement and content strategy.
+The goal of this project is to analyze Netflix's 2022 content library to:
+
+- Understand genre and content trends over time
+- Identify the most active countries in content production
+- Examine engagement patterns for Netflix Originals
+- Provide strategic insights for content and marketing teams
 
 ---
 
@@ -19,60 +24,62 @@ The goal of this project is to uncover meaningful patterns and trends in Netflix
 - **Reports** - Summary reports and documentation
 - **Visualisations** - Exported charts and plots (PNG)
 
-
-
 ---
 
 ## 🛠️ Technologies Used
 
 ### 📌 Python Stack
-- **Python** – Core scripting for automation and analysis  
-- **Pandas** – Data wrangling and manipulation  
-- **NumPy** – Numeric operations  
-- **Matplotlib** – Visualization and plotting  
-- **Seaborn** – Statistical data visualization  
-- **Jupyter Notebook** – Interactive coding environment  
+- Python – Scripting and automation
+- Pandas – Data manipulation
+- NumPy – Numerical operations
+- Matplotlib & Seaborn – Visualization
+- Jupyter Notebook – Interactive development
 
 ### 🗃️ Database
-- **MySQL** – SQL database for structured querying and storage  
-- **MySQL Workbench** – For executing and testing SQL queries
+- MySQL – Structured data storage and querying
+- MySQL Workbench – Query execution and schema design
 
 ---
 
-## 📈 Key Findings
+## 📈 Key Insights
 
-- Analyzed over **1,000+ titles** to uncover trends in content type and genres.
-- Built **15+ visualizations** to display genre, country, and yearly trends.
-- Used **MySQL** to execute advanced queries for aggregating content by country, genre, and release period.
-- Processed and cleaned over **10,000 rows**, improving data quality by **30%**.
-- Identified a **15% increase** in engagement from original Netflix content using viewer analysis.
+- Analyzed **1,000+ titles** to understand content distribution by genre, country, and year.
+- Cleaned and processed **10,000+ rows**, improving data quality by 30%.
+- Built **15+ visualizations** to highlight trends in genre, country, release year, and more.
+- Found **15% higher engagement** with **Netflix Originals** vs. licensed content.
+- Identified rise in **comedy and documentary** genres post-2020.
 
 ---
 
-## 💻 MySQL Capabilities Demonstrated
+## 💻 SQL Capabilities Demonstrated
 
-- Imported and queried `.csv` dataset using `LOAD DATA INFILE`  
-- Executed **advanced SQL** queries:  
-  - Titles added each year/month  
-  - Most popular genres and countries  
-  - Trend analysis of documentaries and comedies  
-  - Year-over-year comparisons using `GROUP BY` and `JOIN`s  
-- Used `STR_TO_DATE`, `LIKE`, `GROUP_CONCAT`, `ORDER BY`, and aggregate functions (`COUNT`, `MAX`, `MIN`, `AVG`)  
+- Imported dataset using `LOAD DATA INFILE`.
+- Wrote and optimized SQL queries using:
+  - `GROUP BY`, `ORDER BY`, `JOIN`, `LIKE`, `GROUP_CONCAT`, `STR_TO_DATE`, `COUNT`, `AVG`, `MAX`, `MIN`
+- Performed:
+  - Year-over-year content comparisons
+  - Genre-wise aggregation
+  - Country-wise content mapping
 
 ---
 
 ## 📊 Visualizations
 
-- Genre Distribution by Year  
-- Monthly Content Additions  
-- Country-wise Production Heatmap  
-- Viewer Trends for Netflix Originals  
-- Ratings & Runtime Patterns Across Genres
+- 📅 Monthly Content Additions
+- 🌍 Country-wise Production Heatmap
+- 🎬 Genre Distribution by Year
+- 📈 Viewer Trends for Netflix Originals
+- ⏱️ Ratings & Runtime Patterns Across Genres
+
+_All visualizations are available in the `Visualizations/` folder._
 
 ---
 
 ## 📧 Contact
 
-- **Name**: Gaurav Gupta  
-- **Email**: [officialgauravgupta3@gmail.com](mailto:officialgauravgupta3@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/gauravgupta7431/](https://www.linkedin.com/in/gauravgupta7431/)  
+**Gaurav Gupta**  
+📧 officialgauravgupta3@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/gauravgupta7431)  
+🔗 [GitHub](https://github.com/Gaurav075)
+
+---
