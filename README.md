@@ -81,6 +81,6 @@ I welcome contributions from developers, analysts, and students. Please:
 
 ## 📧 Contact
 
-- **Name**: Kundan Raj  
-- **Email**: [kundanraj0678@gmail.com](mailto:kundanraj0678@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/kundan-raj0678](https://www.linkedin.com/in/kundan-raj0678/)  
+- **Name**: Gaurav Gupta  
+- **Email**: [officialgauravgupta3@gmail.com](mailto:officialgauravgupta3@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/gauravgupta7431/](https://www.linkedin.com/in/gauravgupta7431/)  
