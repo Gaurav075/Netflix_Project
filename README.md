@@ -71,14 +71,6 @@ The goal of this project is to uncover meaningful patterns and trends in Netflix
 
 ---
 
-## 🤝 Contributing
-
-I welcome contributions from developers, analysts, and students. Please:
-- Open an issue for suggestions or bugs
-- Submit a pull request for feature enhancements
-
----
-
 ## 📧 Contact
 
 - **Name**: Gaurav Gupta  
